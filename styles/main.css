@@ -1,0 +1,74 @@
+h1 {
+  font-size: 52px;
+  color: rgb(75, 255, 0);
+  text-align: center;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 40px;
+  color: blue;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+}
+
+.about {
+  font-size: 30px;
+  color: rgb(75, 255, 0);
+  text-align: center;
+  -webkit-text-stroke-width: 1.75px;
+  -webkit-text-stroke-color: black;
+}
+
+.question {
+  color: black;
+  text-decoration-style: solid;
+  text-decoration: underline black 2px;
+  font-weight: bolder;
+  text-emphasis-color: black;
+  -webkit-text-stroke-width: 0.25px;
+  -webkit-text-stroke-color: yellow;
+}
+
+.answer {
+  color: orangered;
+  -webkit-text-stroke-width: 0.45px;
+  -webkit-text-stroke-color: black;
+}
+
+.instructiona {
+  color: yellow;
+  -webkit-text-stroke-width: 1.75px;
+  -webkit-text-stroke-color: black;
+}
+
+.instructionb {
+  color: #ff008c;
+  -webkit-text-stroke-width: 1.25px;
+  -webkit-text-stroke-color: black;
+}
+
+hr {
+  max-width: 475px;
+  height: 3px;
+  background-color: black;
+  border: none;
+}
+
+.w3-display-middle {
+  position: relative;
+  min-height: 100vh;
+}
+
+.w3-display-container {
+  background-image: url(/styles/assets/images/BackGround.png);
+  background-position: center;
+}
